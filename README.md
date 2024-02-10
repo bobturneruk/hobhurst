@@ -1,2 +1,2 @@
 # hobhurst
-Music website
+Music website made with Hugo
