@@ -1,3 +1,3 @@
 +++
-title = 'Salmon Tales'
+title = 'Salmon Tails'
 +++
