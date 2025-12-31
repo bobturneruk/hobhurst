@@ -1,5 +1,0 @@
-baseURL = 'https://hobhust.com/'
-languageCode = 'en-uk'
-title = 'Hob Hurst'
-theme = 'nightfall'
-contentDir = "content"
